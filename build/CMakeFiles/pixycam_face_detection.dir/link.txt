@@ -1,0 +1,1 @@
+/usr/bin/c++  -fPIC -O3 -DNDEBUG  -shared -Wl,-soname,pixycam_face_detection.node -o Release/pixycam_face_detection.node CMakeFiles/pixycam_face_detection.dir/src/snap.cpp.o -lpixy_cam -lusb-1.0 
