@@ -1,1 +1,0 @@
-/home/leizer/pixycam_nodejs/build/CMakeFiles/pixycam_face_detection.dir
